@@ -1,6 +1,6 @@
 Describes idea of spell system overhaul mod for minecraft.
 
-![Mana_collector_concept.jpg](D:\b\Mine\GIT_Work\minecraft\minecraft_mod_ideas\mana_collector\Mana_collector_concept.jpg)
+![Mana_collector_concept.jpg](Mana_collector_concept.jpg)
 
 **Mana cloud** - permanent cyan sparkling cloud that spawn rarely in the world on height of normal clouds. 
 
